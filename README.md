@@ -10,7 +10,7 @@
 - Non-Vine Reviews: 17514
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-![5](Images/3.png)
+![5](Images/5.png)
 ![4](Images/4.png)
 - View Reviews with 5 stars: 102
 - Non-Vine Reviews with 5 stars: 5154
